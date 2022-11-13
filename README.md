@@ -1,4 +1,4 @@
-# C001 DDOS
+# Trolzec Cannon
 
 This is the most powerful ddos tool, this is obviously remade from spahyra ddos tool but it can work with python 3.9
 
